@@ -1,3 +1,5 @@
+package decorator;
+
 import decorator.Beverage;
 import decorator.beverages.DarkRoast;
 import decorator.beverages.Espresso;
